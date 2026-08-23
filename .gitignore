@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Editor files
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore exported markdown and map file by default? Adjust if you want these tracked
+# exported_markdown_files/
+# image_to_markdown_page_map.md
+
+# Images: consider using Git LFS for large binaries
+images_that_should_be_impored/
+samples/
