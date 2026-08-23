@@ -79,7 +79,7 @@ If you don't have `git gui` installed:
 
 ## Running the starter converter
 ```bash
-python convert_images_to_md.py -i images_that_should_be_impored -o exported_markdown_files
+python convert_images_to_md.py -i images -o exported_markdown_files
 ```
 
 Notes:
