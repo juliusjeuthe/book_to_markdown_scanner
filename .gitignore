@@ -26,5 +26,5 @@ Thumbs.db
 # image_to_markdown_page_map.md
 
 # Images: consider using Git LFS for large binaries
-images_that_should_be_impored/
-samples/
+images/
+
