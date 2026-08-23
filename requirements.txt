@@ -1,0 +1,7 @@
+pillow
+pytesseract
+opencv-python-headless
+python-dotenv
+tqdm
+# Optional: easyocr (if you prefer a Python-only OCR engine)
+# easyocr
